@@ -67,7 +67,7 @@ Dark • Darker • Light • Aqua • Amethyst • Rose
 ## 📋 Требования
 
 - Executor с поддержкой `HttpGet`
-- Roblox плейс: **Guess The Meme**
+- Roblox плейс: [Нажми чтобы открыть плейс](https://www.roblox.com/share?code=e4e10d46a8c92842b48994e341f016df&type=ExperienceDetails&stamp=1780085981731)
 
 ---
 
