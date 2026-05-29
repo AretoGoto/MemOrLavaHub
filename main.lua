@@ -31,7 +31,7 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "Meme or Die",
+    Title = "Meme or Lava",
     SubTitle = "by akiosoj",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 460),
