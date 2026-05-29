@@ -82,6 +82,5 @@ MemeGuesserHub/
 
 <div align="center">
 
-**Сделано с ❤️**
 
 </div>
